@@ -1,2 +1,2 @@
 # priceTable
-basic priceing table using html and css
+basic pricing table using html and css
